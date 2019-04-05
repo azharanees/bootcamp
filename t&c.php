@@ -19,7 +19,6 @@
               
             <div class="contact" style="overflow: scroll;">
              
-            The following Terms and Conditions govern your use of Personal Internet Banking offered by Bank INDIA, N.A. () for accounts held at Bank INDIA, N.A. or any of its subsidiaries or affiliates that hold a Linked Account or provide Personal Internet Banking Services. By using Personal Internet Banking, you agree to these Terms and Conditions. You may print this document for your files or you can request a copy by mail by calling Customer Service at 1-800-975-bank (1-800-975-4722). Representatives are available Monday - Sunday 7:00am - 12:00am ET. Or you can write to: bank Bank INDIA, National Association, P.O. Box 2013, Buffalo, NY 14240.
 Types of Available Transfers and Services<br/>
 Here's what you'll be able to do on your computer with Personal Internet Banking:<br/>
 Obtain available balance information for Deposit, Credit Card and Line of Credit Accounts as of the close of business on the preceding Business Day. However, debits initiated for Bill Payments, may not be reflected in the Available Balance until the next business day or later, and credits initiated for credit cards, loans and lines are not reflected in the Available Balance until after two business days. Obtain transaction/balance information as provided by Pershing for investments (Brokerage) accounts using the link to the Pershing website.

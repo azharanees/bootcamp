@@ -19,13 +19,14 @@ if(isset($_REQUEST['submitBtn'])){
     $salt="@g26jQsG&nh*&#8v";
     $password= sha1($_REQUEST['pwd'].$salt);
   
+    
     $sql="SELECT email,password FROM customer WHERE email='$username' AND password='$password'";
-    $result=mysql_query($sql) or die(mysql_error());
-    $rws=  mysql_fetch_array($result);
+    // $result=mysqli_query($sql) or die(mysqli_error());
+    // $rws=  mysqli_fetch_array($result);
     
     $user=$rws[0];
     $pwd=$rws[1];    
-    
+        
     if($user==$username && $pwd==$password){
         session_start();
         $_SESSION['customer_login']=1;
